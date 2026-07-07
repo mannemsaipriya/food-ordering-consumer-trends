@@ -123,7 +123,7 @@ food-ordering-consumer-trends/
 - **Modharapalem Chandana**
 
 ### 👨‍💻 Engineering & Analytics Team
-- **Nalabolu sreeja**
+- **Nalabolu Sreeja**
 - **Gowthami Maddina**
 - **Mannem Sai Priya**
 - **Pathipati Mohitha**
