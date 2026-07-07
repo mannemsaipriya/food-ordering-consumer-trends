@@ -1,4 +1,4 @@
-# 📈 Food Delivery Analytics | Business Intelligence Showcase
+# 📈 Food Ordering Behaviour and Consumer Trends: A Structured Analysis of Choices and Habits
 
 An advanced data analytics solution built using **Tableau** to evaluate consumer behavior patterns, revenue mechanics, and logistics performance within a modern food delivery ecosystem.
 
@@ -120,7 +120,7 @@ food-ordering-consumer-trends/
 # 👥 Project Team & Collaboration
 
 ### 👑 Project Lead
-- **Modharaoalem Chandana**
+- **Modharapalem Chandana**
 
 ### 👨‍💻 Engineering & Analytics Team
 - **Nalabolu sreeja**
