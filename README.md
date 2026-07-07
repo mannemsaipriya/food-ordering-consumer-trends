@@ -109,11 +109,16 @@ To provide deep dive capabilities, the dashboard utilizes dynamic user controls:
 
 food-ordering-consumer-trends/
 │
-├── Food Ordering Behaviour & Consumer Trends Dashboard.twbx
-├── Food Ordering Behavior and Consumer Trends Story.twbx
-├── food_ordering_behavior_dataset.xlsx
-├── dashboard-preview.png
-└── README.md
+├──  Food Ordering Behaviour & Consumer Trends Dashboard.twbx
+
+├──  Food Ordering Behavior and Consumer Trends Story.twbx
+
+├──  food_ordering_behavior_dataset.xlsx
+
+├──  dashboard-preview.png
+
+└──  README.md
+
 
 ---
 
